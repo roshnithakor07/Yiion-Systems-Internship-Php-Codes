@@ -2,6 +2,13 @@
 
 >day 1 : 04 / 01/2022
 
+
+
+
+
+
+>day 2 : 05/01/2022
+
 >1.print star pattern Using php
 
 >2.check whether number is prime or not in php
