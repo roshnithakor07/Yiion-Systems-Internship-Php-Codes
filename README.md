@@ -6,7 +6,7 @@
 
 
 
-
+##
 >Day 2 : 05/01/2022
 
 >1.Print star pattern Using php.
@@ -19,6 +19,8 @@
 
 >5.Sum of digit using php
 
+##
+
 
 >Day 3 : 06/01/2022
 
@@ -28,6 +30,6 @@
 
 >3.Skip number (take user input) using php.
 
->#
+#
 
 
