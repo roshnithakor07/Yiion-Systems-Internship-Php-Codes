@@ -1,6 +1,6 @@
 # php codes
 
-># **Day 1 : 04 / 01/2022**
+>**Day 1 : 04 / 01/2022**
 
 
 
@@ -27,5 +27,7 @@
 >2.Pheck whether number is  even or odd in php.
 
 >3.Skip number (take user input) using php.
+
+>#
 
 
