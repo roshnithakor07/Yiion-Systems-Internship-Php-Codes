@@ -1,13 +1,14 @@
 # php codes
 
-> ```diff # Day 1 : 04 / 01/2022 ```
+> **Day 1 : 04 / 01/2022** 
 
 
 
 
 
 ##
->Day 2 : 05/01/2022
+
+>**Day 2 : 05/01/2022**
 
 >1.Print star pattern Using php.
 
@@ -21,8 +22,7 @@
 
 ##
 
-
->Day 3 : 06/01/2022
+>**Day 3 : 06/01/2022**
 
 >1.Print different shape star patterns Using php.
 
